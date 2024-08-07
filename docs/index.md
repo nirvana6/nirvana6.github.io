@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "模块化机器人系统"
+  text: "环境感知与导航控制"
+  tagline: 项目知识库及前沿技术分享
   actions:
     - theme: brand
       text: Markdown Examples
